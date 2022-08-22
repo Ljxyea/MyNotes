@@ -1,3 +1,4 @@
 # MyNotes
 learning...
-* <a href=''>制定学习方式</a>
+* <a href='./learn.md'>制定学习方式</a>
+
