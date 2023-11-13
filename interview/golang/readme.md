@@ -148,3 +148,5 @@
 3. 两个协程交替打印10个字母和数字
 4. 启动2个goroutine 2秒后取消, 第一个协程1秒执行完, 第二个协程3秒执行完
 5. 当select监控多个chan同事到达就绪状态时, 如何先执行某个任务
+
+链接：https://github.com/lifei6671/interview-go
