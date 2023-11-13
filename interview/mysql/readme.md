@@ -27,7 +27,7 @@
 25. mysql怎么避免幻读
 26. 共享锁和排它锁
 27. 大表怎么优化, mysql怎么调优
-28. binlog, redologo, undologo 
+28. binlog, redologo, undologo
 29. binlog和undologo有什么区别
 30. 讲一下mysql架构
 31. 分库分表
